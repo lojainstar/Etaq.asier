@@ -6,9 +6,7 @@
 
 ## 🖼️ لمحة من المشروع
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lojainstar/Etaq.asier/main/assets/ui_homepage.png" width="600"/>
-</p>
+
 
 > *واجهة المنصة التفاعلية، توضح بداية الجولة التراثية ثلاثية الأبعاد*
 <p align="center">
